@@ -2,6 +2,8 @@
 
 ## Architecture
 
+[![Architecture Check](https://github.com/mojerrychristopher2-maker/ai-architecture-nextwork/actions/workflows/architecture.yml/badge.svg)](https://github.com/mojerrychristopher2-maker/ai-architecture-nextwork/actions/workflows/architecture.yml)
+
 ```mermaid
 %%{init: {"c4": {"c4ShapeMargin": 110, "c4ShapeInRow": 3}}}%%
 C4Container
